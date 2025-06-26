@@ -1,0 +1,4 @@
+tkcalendar
+pillow
+requests
+python-dotenv
