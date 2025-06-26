@@ -13,7 +13,7 @@ A Moon Phase Tracker
 
 <img width="320" alt="output" src="https://github.com/user-attachments/assets/76f1c752-4bec-468d-b31c-413fd6285431" /></br>
 
-
+------------------
 
 ## Features
 - API-based moon data using 'ipgeolocation.io'
