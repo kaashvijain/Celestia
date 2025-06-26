@@ -80,7 +80,7 @@ phase_to_image = {
     "LAST_QUARTER": "images/last_quarter.jpg"
 }
 
-# window
+#window
 root = tk.Tk()
 root.title("Celestia")
 
@@ -111,7 +111,7 @@ result_label.pack()
 image_label = tk.Label(root)
 image_label.pack(pady=10)
 
-# run
+#run
 root.mainloop()
 
 
