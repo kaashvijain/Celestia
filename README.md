@@ -4,6 +4,16 @@ A Moon Phase Tracker
 **Celestia** is a Python-GUI-based Moon-Phase tracker application which allows users to see the **Moon Phase**, **Moon Rise/Set Time**, **Illumination percentage** for a specified date and location. It also dynamically shows the corresponding Moon Phase Image. 
 
 ----------------
+## Preview Images 
+<img width="207" alt="home" src="https://github.com/user-attachments/assets/77e8dc4f-6451-441b-9521-f40ad5d79df3" /> </br>
+
+<img width="257" alt="calendar" src="https://github.com/user-attachments/assets/f03782fb-7855-45a2-ba52-0dbd32cba4e1" /></br>
+
+<img width= "215" alt="cities" src="https://github.com/user-attachments/assets/301c2ea3-a362-4881-9f8c-3c7ec77b1c04" /></br>
+
+<img width="320" alt="output" src="https://github.com/user-attachments/assets/76f1c752-4bec-468d-b31c-413fd6285431" /></br>
+
+
 
 ## Features
 - API-based moon data using 'ipgeolocation.io'
