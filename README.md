@@ -5,7 +5,7 @@ A Moon Phase Tracker
 
 ----------------
 
-##Features
+## Features
 - API-based moon data using 'ipgeolocation.io'
 - Date input with calender widget
 - Location dropdown
